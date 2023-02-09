@@ -1,9 +1,8 @@
 # docker-php-upload-to-dockerhub
 
-I built a php docker image in a dockerfile and uploaded it to dockerhub.
-Follow the steps below to accomplish the same:
+I built a php docker image with an ubuntu/apache2 base image in a dockerfile and uploaded it to dockerhub. 
+After cloning this repository, follow the steps below to accomplish the same:
 
-### Clone the repository
 
 ### Build the required docker image with:
 ```
